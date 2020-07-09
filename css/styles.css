@@ -1,0 +1,78 @@
+body{
+	font-size: 1.25em;
+    font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Permanent Marker', cursive;
+}
+
+h1{
+	color: white;
+	font-size: 4rem;
+}
+
+h2{
+	font-size: 3rem;
+}
+
+.navbar-brand{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 2rem;
+}
+
+.container-fluid{
+	padding: 3% 10%;
+}
+
+.carousel-item img{
+	padding: 3% 2%;
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+}
+
+.carousel-item p{
+	font-size: 1.5rem;
+	color: white;
+}
+
+.carousel-item button{
+	width: 30%;
+	padding: 1%;
+	font-size: 1.5rem;
+}
+
+.card{
+	margin: 5%;
+}
+
+.card-body{
+	padding: 0;
+}
+
+.card-body img{
+	width: 100%;
+	height: 200px;
+}
+
+.card-body p{
+	padding: 5px;
+	text-align: left;
+	margin: 5px 0;
+}
+
+#carousel-section{
+	background-color: #e84a5f;
+}
+
+#footer .container-fluid{
+	text-align: left;
+	padding: 0 1%;
+}
+
+#copyright {
+	text-align: center;
+}
+
